@@ -1,0 +1,15 @@
+{
+  "logAddress": "drt1ju8pkvg57cwdmjsjx58jlmnuf4l9yspstrhr9tgsrt98n9edpm2qkrl8xm",
+  "identifier": "DCDTTransfer",
+  "address": "drt1ju8pkvg57cwdmjsjx58jlmnuf4l9yspstrhr9tgsrt98n9edpm2qkrl8xm",
+  "topics": [
+    "444344542d61626364",
+    "",
+    "01"
+  ],
+  "shardID": 1,
+  "txHash": "63726f73732d6c6f67",
+  "order": 0,
+  "timestamp": 6040,
+  "txOrder": 0
+}
